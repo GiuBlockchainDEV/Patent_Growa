@@ -1,3 +1,8 @@
+# GROWLEASE 
+
+[GrowLease Token Agri Repository](https://github.com/GiuBlockchainDEV/growlease-token-agri/tree/main)
+[GrowLease Token Agri MVP](https://growlease-token-agri.vercel.app/)
+
 ## RESUME
 
 Questo brevetto presenta GrowLease, un sistema innovativo che integra tecnologia blockchain, Internet of Things (IoT) e intelligenza artificiale per rivoluzionare il settore agricolo. Il sistema permette la tokenizzazione di proprietà agricole, suddividendole in unità digitali rappresentative che possono essere acquistate, vendute e gestite autonomamente.
