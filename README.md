@@ -1,7 +1,7 @@
 # GROWLEASE 
 
-Repository: [GrowLease Token Agri Repository](https://github.com/GiuBlockchainDEV/growlease-token-agri/tree/main)
-MVP: [GrowLease Token Agri MVP](https://growlease-token-agri.vercel.app/)
+### Repository: [GrowLease Token Agri Repository](https://github.com/GiuBlockchainDEV/growlease-token-agri/tree/main)
+### MVP: [GrowLease Token Agri MVP](https://growlease-token-agri.vercel.app/)
 
 ## RESUME
 
