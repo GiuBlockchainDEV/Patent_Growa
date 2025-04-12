@@ -1411,6 +1411,7 @@ Ritorna S, L
 
 Questo algoritmo gestisce un sistema di contratti intelligenti multi-livello per asset agricoli tokenizzati, implementando una struttura gerarchica che facilita la gestione di diritti di proprietà, operazioni agricole e distribuzione dei profitti. Il sistema è progettato per essere robusto, efficiente e in grado di gestire vari tipi di eventi e conflitti che possono verificarsi in un ecosistema agricolo decentralizzato.
 
+```
  -> verificatore_codice
         6.4.1. ConfigurazioneFormInput(C.configurazione_form)
                ConfigurazioneInterfacciaInput(
@@ -2051,3 +2052,4 @@ Questo algoritmo gestisce un sistema di contratti intelligenti multi-livello per
         }
 
 Ritorna A, D
+```
